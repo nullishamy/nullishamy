@@ -8,10 +8,10 @@ You can find the occasional blogpost on https://amy.is-a.dev, which I aim to exp
 
 Get in touch [here](mailto:contact@amyerskine.me)!
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 width="500" align="center" src="https://github-readme-stats.vercel.app/api?username=nullishamy&show_icons=true&show=reviews&rank_icon=percentile&theme=catppuccin_mocha&custom_title=GitHub%20Stats&card_width=550" />
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img height=200 width="500" align="center" src="https://github-stats-extended.vercel.app/api?username=nullishamy&show_icons=true&show=reviews&rank_icon=percentile&theme=catppuccin_mocha&custom_title=GitHub%20Stats&card_width=550" />
 </a>
 
 <a href="https://wakatime.com/@nullishamy">
-  <img height=200 width="500" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nullishamy&layout=compact&langs_count=8&theme=catppuccin_mocha&custom_title=Wakatime%20Stats%20%28All%20time%29&card_width=550" />
+  <img height=200 width="500" align="center" src="https://github-stats-extended.vercel.app/api/wakatime?username=nullishamy&layout=compact&langs_count=8&theme=catppuccin_mocha&custom_title=Wakatime%20Stats%20%28All%20time%29&card_width=550" />
 </a>
